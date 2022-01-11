@@ -18,13 +18,11 @@ enter the number of dependents: 34
 #Output of 3rd question
 
 18104107
-Rahul
+RAHUL
 M
- Intoduction to computing
-6.7
-[18104107, 'Rahul', 'M', 'Intoduction to computing', 6.7]
-
-
+ INTODUCTION TO COMPUTING
+6.8
+[18104107, 'RAHUL', 'M', 'INTODUCTION TO COMPUTING', 6.8]
 
 #Output of 4th question
 
