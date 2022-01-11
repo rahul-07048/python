@@ -34,14 +34,18 @@ print(tax)
 
 # In[6]:
 
-
 sid=int(input(""))
 name=input("")
 Gender=input("")
 Course_Name=input(" ")
 CGPA=float(input(""))
-List=[sid,name,Gender,Course_Name,CGPA]
-print(List)
+list=[]
+list.append(sid)
+list.append(name)
+list.append(Gender)
+list.append(Course_Name)
+list.append(CGPA)
+list
 
 
 # # 4.) Write a python program to enter marks of 5 students into a list and display
@@ -55,10 +59,14 @@ stud2=65
 stud3=55
 stud4=44
 stud5=88
-marks=[stud1,stud2,stud3,stud4,stud5]
+marks=[]
+marks.append(stud1)
+marks.append(stud2)
+marks.append(stud3)
+marks.append(stud4)
+marks.append(stud5)
 s=sorted(marks)
 print(s)
-
 
 # # 5. List: color ['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']
 # a. Write a Python program to print a specified list after removing 4th element.
