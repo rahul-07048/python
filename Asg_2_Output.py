@@ -11,7 +11,7 @@ c)a case sensitive
 
 d)python is object oriented language
 
-e)index of a in  python is a case sensitive language  is  10
+e)10
 
 f)pythonisacasesensitivelanguage
 
