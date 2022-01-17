@@ -13,6 +13,12 @@ print(y)
 
 c) using slice function store " a case sensitive" in new string
 
+z=slice(10,26)
+s=" "
+print(str(s) + str(n[z]))
+
+d) Replace "a case sensitive" with "object oriented"
+
 c="object oriented"
 a=n.replace("a case sensitive" , c)
 print(a)
